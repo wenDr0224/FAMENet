@@ -21,19 +21,6 @@ The released repository will include:
 * Evaluation scripts
 * Detailed reproduction guidelines
 
-## Citation
-
-If you find this work useful, please consider citing our paper:
-
-```bibtex
-@article{fdm2net2026,
-  title={Spatial-Frequency Calibration and Region-Adaptive Feature Modulation for Aerial Tiny Object Detection},
-  author={Author Name and Author Name and Author Name},
-  journal={To appear},
-  year={2026}
-}
-```
-
 ## Contact
 
 For any questions, please feel free to contact the authors.
